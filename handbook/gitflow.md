@@ -53,7 +53,7 @@ Suppose we have a fictional issue called SCAUT-123. Applying the above could loo
 1. Create a new branch for the issue: `git checkout -b SCAUT-123`
 2. Do a bunch of work on the feature.
 3. Once the work is done, open a pull request for the issue: `git pull-request` or open one via the GitHub UI.
-	1. PR title: `SCAUT-123 Remove logout button`
+	1. PR title: `SCAUT-123 Remove logout button`
 	2. PR body:
 	
 	```
@@ -67,4 +67,5 @@ Suppose we have a fictional issue called SCAUT-123. Applying the above could loo
 	3. In the interactive rebase, we `squash` all the commits into a single commit. This will let us interactively edit the commit message, which we clean up and ensure it follows the above rules on commit messages.
 	4. Afterwards, check that the history looks clean and proper with `git log`
 6. Merge the PR into develop: `git checkout develop && git merge SCAUT-123 && git push`
-	- As an alternative, you can use the Rebase and Merge option in the Github GUI under the Pull Request. 
+        - Make sure the commit includes the text 'closes #<github PR id>' somewhere, this will auto-close the PR.
+	- As an alternative, you can use the Rebase and Merge option in the Github GUI under the Pull Request.
