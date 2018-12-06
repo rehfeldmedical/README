@@ -1,6 +1,6 @@
 # Developer Handbook
 
-Welcome to the tech team! We hope that you will have great experience as part of the team. 
+Welcome to Engineering! We're glad to have you onboard and look forward to working with you.
 
 The Developer Handbook contains information to get you up and running with the codebase and the way the tech team works.
 
