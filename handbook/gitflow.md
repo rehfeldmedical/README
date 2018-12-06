@@ -69,3 +69,4 @@ Suppose we have a fictional issue called SCAUT-123. Applying the above could loo
 6. Merge the PR into develop: `git checkout develop && git merge SCAUT-123 && git push`
     - Make sure the commit includes the text 'closes #<github PR id>' somewhere, this will auto-close the PR.
     - As an alternative, you can use the Rebase and Merge option in the Github GUI under the Pull Request.
+   

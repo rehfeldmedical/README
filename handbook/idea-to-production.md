@@ -8,7 +8,7 @@ User-facing features are described, mocked up and discussed in
 discussed in the [SCAUT Platform project](https://makewise.myjetbrains.com/youtrack/projects/a943db9e-ae00-4e77-9f6b-ad6cf1d879fd).
 
 Once a feature is ready to be implemented, it becomes a part of the sprint cycle where it is implemented on a short-lived feature
-branch and eventually becomes a pull-request towards the `develop` branch (TODO: Link to git flow stuff). If the feature is deemed 
+branch and eventually becomes a pull-request towards the `develop` branch. See [git flow](/handbook/gitflow.md) for detailed explanation. If the feature is deemed 
 _sensitive_ then it becomes part of a prolonged QA process on either a PR-specific deployment or on the development environment;
 otherwise it receives just superficial QA by peer reviewers as part of the Pull Request process and eventually as part of a release
 candidate.
