@@ -3,6 +3,6 @@
 
 | Link | Summary  |
 |-------|------|
-| [Roundtable & Demo](./roundtable)   |  Description    |
-| [Breakfast with 'botics](./breakfast) | Description |
+| [Roundtable & Demo](./roundtable.md)   |  Description    |
+| [Breakfast with 'botics](./breakfast.md) | Description |
 | etc... | etc... |
