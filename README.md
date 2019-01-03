@@ -6,5 +6,5 @@ Your first day on the team? Welcome aboard! We are excited to have you working w
 
 ### Sections:
 
-* [Developer handbook](/handbook)
+* Alæl about me
 * [Local OpenShift setup](/infrastructure/local-openshift.md)
