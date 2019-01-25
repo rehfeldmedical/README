@@ -1,6 +1,6 @@
-Hej
+Welcome to design research
 
-Jeg kan godt lave ændringer
+We thrive on data driven design based on extensive field work - boom
 
 
 [min tekst](sjov.md)
