@@ -1,3 +1,3 @@
 Hej
 
-[min tekst](/sjov.md)
+[min tekst](sjov.md)
