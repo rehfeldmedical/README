@@ -5,6 +5,9 @@ Welcome! This repository houses our Engineering documentation and explains how w
 
 Your first day on the team? Welcome aboard! We are excited to have you working with us. Go ahead and read the [Developer Handbook](/.handbook).
 
+
+
+Jeg kunne godt t;nke mig det ser saadna her ud
 ### Sections:
 
 * [Developer handbook](./handbook)
