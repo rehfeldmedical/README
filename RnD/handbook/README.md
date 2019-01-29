@@ -1,4 +1,4 @@
-# R&D handbook
+# R&D Handbook
 
 ## Jupyter Notebooks are for reporting
 
