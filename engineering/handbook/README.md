@@ -5,10 +5,16 @@ Welcome to Engineering! We're glad to have you onboard and look forward to worki
 The Developer Handbook contains information to get you up and running with the codebase and the way the tech team works.
 
 ### Communication
-General rule we try to follow is to be nice to each other. We developers tend to be opinionated, which is good. But try not to be religious about things - there's a reason a colleague disagrees with you.
+Developers are opinionated - which is great. But try not to be religious about things, as there is usually a reason that a colleague may disagree with you.
 
-Written communication is generally preferred form of communication. Any meetings and brainstorming sessions should also be summarized in a written form. This way, the team members not present (vacation, remote working, ...) can still be kept in the loop. This doesn't mean that you are discouraged to just ask something of a person sitting next to you. Of course you can and you should, but most of work-related information/decisions/etc should end up in a written form somewhere.
- 
+We prefer asynchronous communication forms like Slack and e-mail to verbal communication, unless there is a good reason such
+as a meeting, a brainstorming session, wanting to draw on a whiteboard and so on. This lets us work uninterrupted as much as
+possible, despite being situated in an open office. This doesn't mean that you are discouraged from asking something of a person
+sitting next to you. Of course you can and you should, when it makes sense to do so. Just keep in mind that it costs time when
+someone is interrupted in what they are doing - as opposed to being able to tackle your question at an opportune moment.
+
+As much as possible, meetings should also be summarized in written form so that others can follow what goes on even when not present. 
+
 We use Slack for direct communication and especially [#dev channel](https://scaut.slack.com/messages/dev) for tech oriented topics.
 
 ### Important topics
