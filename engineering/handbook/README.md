@@ -19,8 +19,8 @@ We use Slack for direct communication and especially [#dev channel](https://scau
 
 ### Important topics
 
-* [Idea -> Production](/engineering/handbook/idea-to-production.md)
-* [Git workflow](/engineering/handbook/gitflow.md)
-* Sprint process
+* [Idea -> Production](./idea-to-production.md)
+* [Git workflow](./gitflow.md)
+* [Sprint process](./sprint-process.md)
 * Staging environment
 * Production environment
