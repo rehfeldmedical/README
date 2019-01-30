@@ -12,6 +12,9 @@ Each application-related repo should have following branches:
 
 ### Issue lifecycle
 
+TODO: The below is a legacy holdover from our workflow in Jira. As we've moved to YouTrack, things are different there.
+The below needs to be updated to accomodate that.
+
 ![Issue lifecycle](issue_lifecycle.png?raw=true)
 
 * Issues begin as **To Do**, when added to a sprint.
