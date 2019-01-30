@@ -1,4 +1,4 @@
-# Github workflow
+# Git workflow
 
 We use the [git flow](https://nvie.com/posts/a-successful-git-branching-model/) approach to branching, with peer-review on all changes. We rebase feature branches, and we squash to a single commit before fast-forward merging back into master/develop.
 
