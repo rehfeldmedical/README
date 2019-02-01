@@ -11,4 +11,4 @@ Your first day on the team? Welcome aboard! We are excited to have you working w
 * [Events & meetings](/events-meetings)
 * [I'm an Engineer](/engineering)
 * [I'm in R&D](/rnd)
-* [I'm in Design Research](/dr)
+* [I'm in Design Research](/design-research)
