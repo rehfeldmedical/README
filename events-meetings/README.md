@@ -7,5 +7,3 @@ and/or include other companies as well.
 |-------|------|
 | Roundtable & Demo   | Catch-up on what everyone has been doing + demo of new things    |
 | Roadmap & Croissants | Long-term roadmap alignment and the best croissants in Denmark |
-| Breakfast with 'botics | Breakfast together with Radiobotics next door |
-
