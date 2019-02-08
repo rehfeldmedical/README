@@ -11,18 +11,19 @@ First of all, you need to:
 
 Once that is done we can start getting you on our systems.
 
-## Getting access to our systems
+## Getting access to our applications
 
-We have a collection of systems 
+The following application help us stay productive. You should get access to:
 
-- [ ] Get access to your company email. You email should already have a bunch of unread mail that invite you to create accounts on the systems described below.
-- [ ] Get access to your company calendar. We use 'GCal' so you should already have access to this. 
-- [ ] Get access to `1Password`. This is our password manager.
-- [ ] Get access to `Slack`. This is our messaging tool.
-- [ ] Get access to `Confluence`. This is what we use for internal documents such as meeting notes and road maps.
-- [ ] Get access to `YouTrack`. This is our task management tool.
-- [ ] Get access to `DropBox` and `Boxcryptor` This is where we store files that are not part of the production system or stored on the Data Warehouse.
-- [ ] Get access to the `RnD` team on GitHub. This is where we will keep all of our data science projects.
+- [ ] `Gmail`. You email should already have a bunch of unread mail that invite you to create accounts on the systems described below.
+- [ ] `Gcal`. We use Google calendar so you should already have access to this. 
+- [ ] `1Password`. This is our password manager.
+- [ ] `Slack`. This is our messaging tool.
+- [ ] `Confluence`. This is what we use for internal documents such as meeting notes and road maps.
+- [ ] `YouTrack`. This is our task management tool.
+- [ ] `ClickUp`. Our CEO uses this to assign tasks that are not part of `YouTrack` and don't follow sprints.
+- [ ] `DropBox` and `Boxcryptor`. This is where we store files that are not part of the production system or stored on the Data Warehouse.
+- [ ] the `RnD` team on GitHub. This is where we will keep all of our data science projects.
 
 Now that you have access to our systems its time to put them to use.
 
