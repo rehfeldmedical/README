@@ -2,9 +2,9 @@
 
 Welcome to the team!
 
-Your first day will be all about getting access to all of our systems and taking them for a spin.
+Your first day will be all about getting access to our systems and taking them for a spin.
 
-First of all, you need to:
+But before we get started, you will need to:
 
 - [ ] Have your photo for the website taken. 
 - [ ] Set up your desk and get your computer up and running.
@@ -16,7 +16,7 @@ Once that is done we can start getting you on our systems.
 The following application help us stay productive. You should get access to:
 
 - [ ] `Gmail`. You email should already have a bunch of unread mail that invite you to create accounts on the systems described below.
-- [ ] `Gcal`. We use Google calendar so you should already have access to this. 
+- [ ] `Gcal`. You should already have access to this, but please check. 
 - [ ] `1Password`. This is our password manager.
 - [ ] `Slack`. This is our messaging tool.
 - [ ] `Confluence`. This is what we use for internal documents such as meeting notes and road maps.
@@ -29,9 +29,9 @@ Now that you have access to our systems its time to put them to use.
 
 ## Using GitHub
 
-We use GitHub to collaborate on our projects. If you are not already familiar with Git expect to spend some time getting the hang of it. Don't be afraid to ask one of your colleagues with help completing the tasks below.
+We use GitHub to collaborate on our projects. If you are not already familiar with Git expect to spend some time getting the hang of it. Don't be afraid to ask one of your colleagues for help completing the tasks below.
 
-- [ ] Clone the [ds-tools](https://github.com/rehfeldmedical/ds-tools) repository. This repository contains config files for Jupyter Notebooks. Run the notebook. Does it look like the screen-shot?
+- [ ] Clone the [ds-tools](https://github.com/rehfeldmedical/ds-tools) repository. This repository contains config files for Jupyter Notebooks. Follow the instructions given in the repository's `README` file.
 - [ ] Make a `Pull Request` to one of the data science repositories. Never done a `Pull Request` before? No worries, we can walk you through it.
 
 ## Using YouTrack
