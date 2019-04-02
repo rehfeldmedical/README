@@ -8,5 +8,6 @@ Your first day on the team? Welcome aboard! We are excited to have you working w
 ### Sections:
 
 * [Developer handbook](handbook)
+* [Elixir best-practice](elixir)
 * [Local OpenShift setup](infrastructure/local-openshift.md)
 * [OC command line tools](infrastructure/oc-cli.md)
