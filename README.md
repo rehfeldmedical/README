@@ -4,7 +4,7 @@ Welcome! This repository houses our documentation and explains how we work and w
 
 Your first day on the team? Welcome aboard! We are excited to have you working with us.
 
-### Sections:
+### Section list:
 * [Events & meetings](/events-meetings)
 * [I'm an Engineer](/engineering)
 * [I'm in R&D](/rnd)
